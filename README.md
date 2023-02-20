@@ -1,6 +1,6 @@
 # Vue 3 + TypeScript + Vite 
 
-Look this page >> https://traectoria.nikitalieonov.repl.co <<
+Look this page >> https://v77v91-5173.preview.csb.app/ <<
 
 or download and use >> npm run dev <<
 
